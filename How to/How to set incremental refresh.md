@@ -1,3 +1,3 @@
-- Edit datasource
+- Edit datasource [How to edit datasource](https://github.com/LEEhahahh/Tableau-Cookbook/blob/main/How%20to/How%20to%20edit%20datasource.md)
 - On the left top, select "Extract"
 - On the left of "Extract", click "Edit"
