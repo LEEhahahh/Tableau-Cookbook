@@ -1,0 +1,3 @@
+- Edit datasource
+- On the left top, select "Extract"
+- On the left of "Extract", click "Edit"
